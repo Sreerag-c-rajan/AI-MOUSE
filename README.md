@@ -1,6 +1,7 @@
 # AI-Virtual-mouse
 It is an ai python open cv project.We can use all the mouse movements by hand gusture
-![0_OfoZ60WfklcJji7O](https://github.com/user-attachments/assets/4ffd3c6b-9311-47f1-bf76-32fb57e0d70a)
+
+![0_OfoZ60WfklcJji7O](https://github.com/user-attachments/assets/4efbfe37-57c4-46e2-b1bb-bbfce242945a)
 
 🧠 Description:
 
@@ -29,7 +30,8 @@ Vertical scrolling using finger movement (e.g., index and  thumb apart or closed
 Volume Control: Adjust volume with index and thumb finger touched and move in horizontal direction
 
 Brightness Control: Adjust screen brightness with index and thumb finger touched and move in horizontal direction
-![imag 1_41750](https://github.com/user-attachments/assets/4157df31-9447-4075-adef-bfe264c0968c)
+![imag 1_41750](https://github.com/user-attachments/assets/3f8e6eb2-5b8f-42d3-98cb-bc53e89a87d3)
+
 
 🛠️ Technologies Used:
 
